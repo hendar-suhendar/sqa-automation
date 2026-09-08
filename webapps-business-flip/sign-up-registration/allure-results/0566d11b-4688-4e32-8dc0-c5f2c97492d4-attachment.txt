@@ -1,0 +1,5 @@
+[STEP] Opening registration page
+[STEP] Entering Full Name: Vincenza MacGyver
+[STEP] Entering Email: elvera43@test.com
+[STEP] Entering Phone Number: 82746548447
+[STEP] Selecting Business Type: individual

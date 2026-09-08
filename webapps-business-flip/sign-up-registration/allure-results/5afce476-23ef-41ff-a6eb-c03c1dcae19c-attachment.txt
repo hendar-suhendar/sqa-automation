@@ -1,0 +1,5 @@
+[STEP] Opening registration page
+[STEP] Entering Full Name: Caterina Klein
+[STEP] Entering Email: thaddeus.lind12@test.com
+[STEP] Entering Phone Number: 85229820054
+[STEP] Selecting Business Type: legal
