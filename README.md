@@ -8,7 +8,7 @@ The complete manual test cases and test scenarios are documented separately.
 
 **Test Case Document:**
 
-[View Test Cases – Sign-Up Registration](https://docs.google.com/spreadsheets/d/1L7hMxesxa_S_qZX_6WvVsp2ldkGWzIJX/edit?gid=1442168353#gid=1442168353&range=B1:F1)
+[View Test Cases – Sign-Up Registration](https://docs.google.com/spreadsheets/d/1ZWY_eUh2-OVbFcCfhG6pcjYs6P4Ieieu/edit?gid=1442168353#gid=1442168353&range=B1:F1)
 
 
 This project is designed to demonstrate a maintainable and scalable QA Automation framework following industry-standard practices such as **Page Object Model (POM), reusable locators, test tagging, environment configuration, Allure reporting, and CI/CD integration**.
